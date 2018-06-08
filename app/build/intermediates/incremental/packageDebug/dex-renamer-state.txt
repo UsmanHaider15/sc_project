@@ -1,0 +1,7 @@
+#Fri Jun 08 10:36:02 PKT 2018
+base.0=C\:\\Users\\usman\\AndroidStudioProjects\\twitterSearch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7b2322c39cd9b1f2cfb8c8bb0f335b5f1783bd1c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\usman\\AndroidStudioProjects\\twitterSearch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0eec6b473def34ffc97a131dea1f2b4c05d980b4\\classes.dex
+base.1=C\:\\Users\\usman\\AndroidStudioProjects\\twitterSearch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0eec6b473def34ffc97a131dea1f2b4c05d980b4
+file.0=C\:\\Users\\usman\\AndroidStudioProjects\\twitterSearch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7b2322c39cd9b1f2cfb8c8bb0f335b5f1783bd1c\\classes.dex

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\.gradle\caches\modules-2\files-2.1\org.twitter4j\twitter4j-core\4.0.4\1f3c896c7b2f20c51103078ccf0bc2ea97ac012a\twitter4j-core-4.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f3c896c7b2f20c51103078ccf0bc2ea97ac012a">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\twitter4j-core-4.0.4_b50dc6e6d459ae4e828e5494052a31a907a3bfbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_8b80f5a4aed1fb006d69a04f616f2e666755a6f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.8.2\d27c24204c5e507b16fec01006b3d0f1ec42aed4\joda-time-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d27c24204c5e507b16fec01006b3d0f1ec42aed4">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\joda-time-2.8.2_c9ae56b5220646ee74f866da3a08afc5c1b6c545\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\.android\build-cache\cfae0708e0f611b170839af75e3e7516cb890a28\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff0e6a5cace6445a83f9d2272d8aeb6c3bd660bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\.android\build-cache\aa9bab4fde2021de6c6024d33be7897a865ffbb6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bac69cc4874b551af911a3d77a43b872e9dccd5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.1\b494968f6050d494de55dc3ce005e59c7eb40012\rxjava-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.1_27dca9685e32a9187944643e9d2bd624e0eb942e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_2c7b52ce252850d413a94e6b4a5cf029c41d0323\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_74d46a7feca434ba3013bc46007fdc5b1f5ce0d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\.android\build-cache\e75ab18a8e869b4391a7fe733288fdd4e4371605\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aba9abcfe7ce6d935add115f5ce20254b037d583">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ffada625f73bd6f0c6f37b7f816809beddeb4a72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\.android\build-cache\fa4e94c2a4a12791885cf46b7dafb4eafd98ca65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_062c89869aa8ec6a056ae5c570ce720a5544b8e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0eec6b473def34ffc97a131dea1f2b4c05d980b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\.android\build-cache\cfae0708e0f611b170839af75e3e7516cb890a28\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_ee411bb1a48336d268241e86c0085539845057e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="559221e251fa860b2f180173abec796e1208fde9">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7b2322c39cd9b1f2cfb8c8bb0f335b5f1783bd1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\.android\build-cache\88736d6bfac821ed0cd355b721799b1bd766a932\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfc0f1594e6ad753056ad698baff4cefed656d12">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50b9793a46c34a427b0b6636f9f93c097ec34730\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\.android\build-cache\56f4a899a8d26ba2d7d2f63d1c69110dba5fa6ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f387d5a565c9e4cf282154d2615c0b4bc1aab6e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.1\73ce0d997524a7fd3b06cfc7adbb9e9ef4854754\dagger-2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73ce0d997524a7fd3b06cfc7adbb9e9ef4854754">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.1_29dad7b9907e8982dadbc207fad2169c62754d36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\.android\build-cache\65cae78e7e68cc1d9deeb4b224f3253c83af2f39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8ad96d5592c2e531701da3dbab6f9e485f34ab7">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb5c867e63a8f92a7b6c8a020b970af681f93fa8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\.android\build-cache\269c2b9dcb711f13ec18430e13f770952f89d5ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0aaaed94bb3ef11890996231a954922ca1d3e5d">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_220b1b24ac07deddce6ae5d840ba40359d518ec8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usman\.android\build-cache\074bda7d97f9fb65e3e38701f53f39b7f976d16f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="C:\Users\usman\AndroidStudioProjects\twitterSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_804a2ca40b135dd5201ed97fde2cffbc42c90b04\classes.dex" />
+    </item>
+
+</items>
